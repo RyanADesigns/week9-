@@ -1,3 +1,8 @@
 .divleft {
-  background-color: grey;
+  background-color: lightgrey;
+  height: 100rem;
+}
+.divright {
+  background-color: lightgrey;
+  height: 100rem;
 }
